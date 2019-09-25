@@ -1,0 +1,59 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+<!-- My widget -->
+<!-- -->
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
+    {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+  </div>
+  <div class="col-12 col-lg-8">
+    {{ with $page.Content }}{{ . }}{{ end }}
+
+    {{ if $page.Params.item }}
+    {{ range $idx, $key := sort $page.Params.item ".date_start" "desc" }}
+      <div class="card experience course">
+        <div class="card-body">
+
+            <div>
+                {{- with .url -}}<a href="{{.}}" target="_blank" rel="noopener">{{- end -}}
+                    <h4 class="card-title exp-title text-muted my-0">{{.title | markdownify | emojify}}</h4>
+                {{- with .url -}}</a>{{- end -}}
+              <div>
+              <ol>
+                <li>
+                    
+                    {{with .item1}}
+                    <div>{{. | markdownify | emojify}}</div>
+                    {{end}}
+                </li>
+                <li>
+                    {{with .item2}}
+                    <div>{{. | markdownify | emojify}}</div>
+                    {{end}}
+                </li>
+                <li>
+                    {{with .item3}}
+                    <div>{{. | markdownify | emojify}}</div>
+                    {{end}}
+                </li>
+              </ol>
+            </div>
+          </div>
+
+          <div>
+
+            <!--  <span class="middot-divider"></span>  -->
+
+          </div>
+
+        </div>
+      </div>
+
+    {{end}}
+    {{end}}
+  </div>
+</div>
+
+

@@ -5,15 +5,17 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Academic"
+title = ""
+# title = "FEP Entwicklung & Produktion"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+# baseurl = "/"
+baseurl = "www.FE-P.com/"
 
 # Enter a copyright notice to display in the site footer.
-# To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = ""
+# To display a copyright symbol, type `&copy;`. For current year, type `{year}.
+copyright = "Friedli Entwicklung und Produktion und RFTechnology (Shenzhen) Ltd."
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
@@ -29,12 +31,12 @@ theme = "academic"
 enableGitInfo = false
 
 # Default language to use (if you setup multilingual support)
-defaultContentLanguage = "en"
+defaultContentLanguage = "de"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
 
-paginate = 10  # Number of items per page in paginated lists.
+paginate = 50  # Number of items per page in paginated lists.
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -61,7 +63,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 [imaging]
   resampleFilter = "lanczos"
   quality = 90
-  anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
+  anchor = "center"  # Anchor for cropping. Options include Smart and Center.
 
 # Taxonomies.
 [taxonomies]
