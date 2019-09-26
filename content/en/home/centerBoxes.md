@@ -18,7 +18,7 @@ subtitle = ""
   organization_url = ""
   title = "CONSULTING"
 
-  item1 = "Manufacturing- and supply-strategy"
+  item1 = "Build new source or manufacturing"
   item2 = "Businessplan studies"
   item3 = "Cost benchmark"
 

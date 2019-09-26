@@ -19,7 +19,7 @@ subtitle = ""
   organization_url = "http://fe-p.com"
   title = "BERATUNG"
 
-  item1 = "Produktions- und Liefer-Strategie"
+  item1 = "Produktion internationalisieren"
   item2 = "Businessplanstudien"
   item3 = "Kosten Benchmarking"
 
