@@ -75,7 +75,7 @@ Beside our engineering and manufacturing service we are working intensively on b
 
 
 
-[Get individual and exclusive **relevant information** here >](https://forms.office.com/Pages/ResponsePage.aspx?id=vZcy3DbiTUeX2B7WXE-v_GiRPOp3bM9GrqLp5pF1Y5JUM0xZTks1Q0ZINEoxVVg2NEZIWjZST1FGUy4u)
+[We write exclusive relevant information for your business >](https://forms.office.com/Pages/ResponsePage.aspx?id=vZcy3DbiTUeX2B7WXE-v_GiRPOp3bM9GrqLp5pF1Y5JUM0xZTks1Q0ZINEoxVVg2NEZIWjZST1FGUy4u)
 
 
  

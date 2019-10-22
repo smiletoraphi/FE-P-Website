@@ -51,5 +51,5 @@ Roland Saladin, Geschäftsführer
   **Unsere Leistungen**
 <div>
 <div>
-Produktionsgerechte Gestaltung und Industrialierung einer patentierten Montagehalterung und Produktionspartnersuche.
+ROLSA hat eine Lösung entwickelt, um den sehr komplizierten Montageprozess von Nachtstoren massiv zu vereinfachen. Wir sind sehr glücklich darüber, dass wir am Ende des Projektes einen Wertvollen Beitrag zur Umsetzung leisten konnten und freuen uns eine innovative Idee fit für die industrielle Produktion gemacht zu haben. Der Erfolgsfaktor war hier die Abstraktion vom Konzept, um dann Herstellmethoden zu finden, die einerseits die funktionellen Charakteristika sicherstellen können, und anderseits kommerziell tragbar sind. Schlussendlich haben wir uns für eine Aluminiumextrusion entschieden, welche mit wenigen Bearbeitungsschritten die Komplexität und die geforderte Genauigkeit abbilden kann. Daraufhin haben wir einen Produktionspartner gesucht, welcher die geforderten Herstellprozesse abbilden kann, die Montage übernehmen kann und vor allem, unsere Losgrössen effizient bearbeiten kann. 
 <div>

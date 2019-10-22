@@ -37,7 +37,7 @@ hero_media = "logoFE-P2s.png"
 [cta]
   url = "https://forms.office.com/Pages/ResponsePage.aspx?id=vZcy3DbiTUeX2B7WXE-v_GiRPOp3bM9GrqLp5pF1Y5JUM0xZTks1Q0ZINEoxVVg2NEZIWjZST1FGUy4u"
   
-  label = "Registrieren"
+  label = "VIP Mitglied"
   icon_pack = "fas"
   icon = "address-card"
   
@@ -52,8 +52,7 @@ hero_media = "logoFE-P2s.png"
 +++
 
 
-DER SCHNELLE WEG ZUR PRODUKT- LANCIERUNG
+VON KONZEPTENTWICKLUNG BIS PRODUKT- INDUSTRIALISIERUNG
 
 
-Exklusiv hier: Auf Sie zugeschnittene **relevante Informationen** erhalten:
-
+Wir verfassten relevante Informationen für Ihr Business:

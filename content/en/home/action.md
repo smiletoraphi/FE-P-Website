@@ -37,7 +37,7 @@ hero_media = "logoFE-P2s.png"
 [cta]
   url = "https://forms.office.com/Pages/ResponsePage.aspx?id=vZcy3DbiTUeX2B7WXE-v_GiRPOp3bM9GrqLp5pF1Y5JUM0xZTks1Q0ZINEoxVVg2NEZIWjZST1FGUy4u"
 
-  label = "Register"
+  label = "VIP Member"
   icon_pack = "fas"
   icon = "address-card"
   
@@ -51,8 +51,6 @@ hero_media = "logoFE-P2s.png"
 #  label = 'FE-P Schweiz und Friedli Technology (Shenzhen) Ltd'
 +++
 
-THE FAST LANE FOR PRODUCT LAUNCH
+FROM NEW CONCEPT DEVELOPMENT TO PRODUCT INDUSTRIALIZATION.
 
-Get individual and exclusive **relevant information** here:
-
-
+We write relevant information for your business:

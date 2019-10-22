@@ -24,7 +24,9 @@ email_form = 0
 
 +++
 
-## Direkt online Anfrage starten:
+## Direkt online Anfrage starten: [^1] 
 **> [Schnell Offerte Anfragen](https://forms.office.com/Pages/ResponsePage.aspx?id=vZcy3DbiTUeX2B7WXE-v_GiRPOp3bM9GrqLp5pF1Y5JUNFcyTzdJOFNQNTNRMjZaQ04yTjJVR0FDWS4u)**
 
-## Mit uns in Kontakt treten:
+## Mit uns in Kontakt treten: 
+
+[^1]: Dies ist eine statische Seite und es werden keine Nutzerdaten von uns oder Dritt- Dienstleister aufgezeichnet. Bei der Registrierung oder einer Anfrage werden Ihre Kontaktdaten und eingegebenen Informationen über ein Service von Microsoft weitergeleitet und auf einem Microsoft Server gespeichert. Ihre übermittelten Daten und Kontaktangaben werden lediglich zur Bearbeitung Ihrer Anfrage verwendet und Ihre Kontaktdaten werden nicht weitergeleitet.

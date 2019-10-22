@@ -24,7 +24,9 @@ email_form = 0
 
 +++
 
-## Start directly with an online Inquiry:
+## Start directly with an online Inquiry: [^1] 
 **> [Get quick Quotation](https://forms.office.com/Pages/ResponsePage.aspx?id=vZcy3DbiTUeX2B7WXE-v_GiRPOp3bM9GrqLp5pF1Y5JUNFcyTzdJOFNQNTNRMjZaQ04yTjJVR0FDWS4u)**
 
 ## Get in contact with us:
+
+[^1]: This is a static web site und no user date are beeing recorded by us or any third party service provider. In case of user registration or an inquiry your entered information ancontact details will be processec over a microsoft service and will be storen on a microsoft server. Your date will only be used for the declared purpose and your contact details will not be forwarded.

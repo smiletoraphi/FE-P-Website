@@ -63,7 +63,7 @@ slides: ""
 ---
 
 
-Sehr geehrter Leser
+Sehr geehrte Leser
 
 Es ist mir eine Ehre, dass Sie sich die Zeit nehmen unsere neue Firmenwebseite und unseren Blog zu besuchen und es würde mich ausserordentlich freuen, wenn wir Ihnen in Zukunft in irgendeiner Form einen Mehrwert bieten könnten.
 
@@ -71,7 +71,7 @@ Neben unserer Entwicklungs- und Produktions-Dienstleistungen arbeiten wir moment
 
 
 
-[Exklusiv auf Sie zugeschnittene **relevante Informationen** erhalten >](https://forms.office.com/Pages/ResponsePage.aspx?id=vZcy3DbiTUeX2B7WXE-v_GiRPOp3bM9GrqLp5pF1Y5JUM0xZTks1Q0ZINEoxVVg2NEZIWjZST1FGUy4u)
+[Wir verfassen exklusiv für Ihr Business relevante Informationen >](https://forms.office.com/Pages/ResponsePage.aspx?id=vZcy3DbiTUeX2B7WXE-v_GiRPOp3bM9GrqLp5pF1Y5JUM0xZTks1Q0ZINEoxVVg2NEZIWjZST1FGUy4u)
 
 
 

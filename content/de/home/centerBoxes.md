@@ -14,14 +14,6 @@ subtitle = ""
 
 #   Add/remove as many `[[item]]` blocks below as you like.
 
-[[item]]
-  organization = "Anfrage"
-  organization_url = "http://fe-p.com"
-  title = "BERATUNG"
-
-  item1 = "Produktion internationalisieren"
-  item2 = "Businessplanstudien"
-  item3 = "Kosten Benchmarking"
 
 [[item]]
   organization = ""
@@ -31,6 +23,15 @@ subtitle = ""
   item1 = "Produktentwicklung & NVH"
   item2 = "Fertigungstechnische Optimierung"
   item3 = "Materialien und Konformitäten"
+
+[[item]]
+  organization = "Anfrage"
+  organization_url = "http://fe-p.com"
+  title = "BERATUNG"
+
+  item1 = "Produktion internationalisieren"
+  item2 = "Businessplanstudien"
+  item3 = "Kosten Benchmarking"
 
 [[item]]
   organization = ""

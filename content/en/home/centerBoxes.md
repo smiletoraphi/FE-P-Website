@@ -13,14 +13,7 @@ subtitle = ""
 
 #   Add/remove as many `[[item]]` blocks below as you like.
 
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "CONSULTING"
 
-  item1 = "Build new source or manufacturing"
-  item2 = "Businessplan studies"
-  item3 = "Cost benchmark"
 
 [[item]]
   organization = ""
@@ -30,6 +23,15 @@ subtitle = ""
   item1 = "Product development & NVH"
   item2 = "Design for manufacturing"
   item3 = "Materials and conformities"
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "CONSULTING"
+
+  item1 = "Build new source or manufacturing"
+  item2 = "Businessplan studies"
+  item3 = "Cost benchmark"
 
 [[item]]
   organization = ""
