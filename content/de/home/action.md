@@ -55,4 +55,4 @@ hero_media = "logoFE-P2s.png"
 VON KONZEPTENTWICKLUNG BIS PRODUKT- INDUSTRIALISIERUNG
 
 
-Wir verfassten relevante Informationen für Ihr Business:
+Wir verfassen relevante Informationen für Ihr Business:

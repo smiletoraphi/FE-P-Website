@@ -35,7 +35,7 @@ url_video: ""
 ---
 
 ## Nutzen für den Kunden
-Pewatron ist ein Unternehmen der Angst+Pfister Gruppe und entwicklet Lösungen in den Bereichen Sensorik, Stromversorgung und Antriebstechnik.
+Pewatron ist ein Unternehmen der Angst+Pfister Gruppe und entwickelt Lösungen in den Bereichen Sensorik, Stromversorgung und Antriebstechnik.
 
 Das sagt Thomas Röttinger, CEO der Pewatron AG:
 
@@ -43,7 +43,7 @@ Das sagt Thomas Röttinger, CEO der Pewatron AG:
 
 
 ## Unsere Leistungen
-Wir haben einen passenden Produktions-Partner identifiziert, wobei wir neben technischen Anfroderungen wie Qualitätssicherung, eigener Entwicklungsabteilung und Umweltschutz auch versteckte Anforderungen wie Reaktionszeit, Flexibilität und Firmenumsatz / Projektgrössen- Verhältniss. Denn schlussendlich entscheident für eine gute Partnerschaft ist, ob der Produktionspartner gewillt ist jeweils die Extrameile zu gehen um Projekte zu gewinnen und erfolgreich umzusetzen, sowie ob man technisch die gleiche Sprache spricht. Anderfalls nützen alle Zertifikate und Referenzprojekte nichts.
+Wir haben einen passenden Produktions- Partner identifiziert, wobei wir neben technischen Anforderungen wie Qualitätssicherung, eigener Entwicklungsabteilung und Umweltschutz auch versteckte Anforderungen wie Reaktionszeit, Flexibilität und Firmenumsatz / Projektgrössen- Verhältnis berücksichtigt haben. Denn schlussendlich entscheidend für eine gute Partnerschaft ist, ob der Produktionspartner gewillt ist jeweils die Extrameile zu gehen, um Projekte zu gewinnen und erfolgreich umzusetzen, sowie ob man technisch die gleiche Sprache spricht. Andernfalls nützen alle Zertifikate und Referenzprojekte nichts.
 
 {{< figure src="Inspection.jpg" title="PCB Optische Prüfung" lightbox="true" >}}
 
