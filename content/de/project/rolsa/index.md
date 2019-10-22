@@ -1,7 +1,7 @@
 ---
-title: Geschäftsführer ROLSA Storen GmbH
+title: Fertigungs- optimierung und Sourcing
 
-summary: FE-P half uns unsere Neuentwicklung rechtzeitig auf den Markt zu bringen
+summary: Geschäftsführer ROLSA Storen GmbH
 
 #`external_link`.
 
@@ -35,21 +35,17 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-<div>
-  **Patentierte Storenmontage- Klemme**
-<div>
 
-<div>
-"
-<b><i>FE-P </i></b>
-hat uns bei der Fertigungsoptimierung und Produktionspartnersuche tatkräftig unterstützt und ermöglichte unsere patentierte Montageklemme für Einbaustoren nach Plan auf den Markt zu bringen."
+## Nutzen für den Kunden
 
-Roland Saladin, Geschäftsführer
-<div>
+Das sagt Roland Saladin, Geschäftsführer der ROLSA GmbH:
 
-<div>
-  **Unsere Leistungen**
-<div>
-<div>
-ROLSA hat eine Lösung entwickelt, um den sehr komplizierten Montageprozess von Nachtstoren massiv zu vereinfachen. Wir sind sehr glücklich darüber, dass wir am Ende des Projektes einen Wertvollen Beitrag zur Umsetzung leisten konnten und freuen uns eine innovative Idee fit für die industrielle Produktion gemacht zu haben. Der Erfolgsfaktor war hier die Abstraktion vom Konzept, um dann Herstellmethoden zu finden, die einerseits die funktionellen Charakteristika sicherstellen können, und anderseits kommerziell tragbar sind. Schlussendlich haben wir uns für eine Aluminiumextrusion entschieden, welche mit wenigen Bearbeitungsschritten die Komplexität und die geforderte Genauigkeit abbilden kann. Daraufhin haben wir einen Produktionspartner gesucht, welcher die geforderten Herstellprozesse abbilden kann, die Montage übernehmen kann und vor allem, unsere Losgrössen effizient bearbeiten kann. 
-<div>
+> **_FE-P_** hat uns bei der Fertigungsoptimierung und Produktionspartnersuche tatkräftig unterstützt und ermöglichte unsere patentierte Montageklemme für Einbaustoren nach Plan auf den Markt zu bringen.
+
+
+
+## Unsere Leistungen
+ROLSA hat eine Lösung entwickelt, um den sehr komplizierten Montageprozess von Einbaustoren massiv zu vereinfachen. Wir sind sehr glücklich darüber, dass wir am Ende des Projektes einen Wertvollen Beitrag zur Umsetzung leisten konnten und freuen uns eine innovative Idee fit für die industrielle Produktion gemacht zu haben. Der Erfolgsfaktor war hier die Abstraktion vom Konzept, um dann Herstellmethoden zu finden, die einerseits die funktionellen Charakteristika sicherstellen können, und anderseits kommerziell tragbar sind. Schlussendlich haben wir uns für eine Aluminiumextrusion entschieden, welche mit wenigen Bearbeitungsschritten die Komplexität und die geforderte Genauigkeit abbilden kann. Daraufhin haben wir einen Produktionspartner gesucht, welcher die geforderten Herstellprozesse abbilden kann, die Montage übernehmen kann und vor allem, die gegebenen Losgrössen effizient bearbeiten kann. 
+
+
+{{< figure src="profil.jpg" title="Roland Saladin" lightbox="true" >}}
