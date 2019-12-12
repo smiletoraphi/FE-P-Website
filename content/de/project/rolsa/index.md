@@ -40,7 +40,7 @@ url_video: ""
 
 Das sagt Roland Saladin, Geschäftsführer der ROLSA GmbH:
 
-> **_FE-P_** hat uns bei der Fertigungsoptimierung und Produktionspartnersuche tatkräftig unterstützt und ermöglichte unsere patentierte Montageklemme für Einbaustoren nach Plan auf den Markt zu bringen.
+> **_FE-P_** hat uns bei der Fertigungsoptimierung und Produktionspartnersuche tatkräftig unterstützt und ermöglichte unsere patentierte Montageklemme für Lamellenstoren in Isolations- Schürzen nach Plan auf den Markt zu bringen.
 
 
 
